@@ -30,10 +30,3 @@ ylim([0,700])
 function posteriori= euler_(priori,input, dt)
 posteriori=priori+input*dt;
 end
-
-
-
-
-
-
-
